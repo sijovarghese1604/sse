@@ -1,0 +1,9 @@
+.comp{   
+    padding: 10px;
+    border: 1px solid #000;  
+    float: left;
+}
+.comp button{
+ width: 25%;
+ padding: 10px;
+}
